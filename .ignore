@@ -1,3 +1,6 @@
-.vscode
-Content
-Intermediate
+/.git
+/.vscode
+/Content
+/DerivedDataCache
+/Intermediate
+/Saved
