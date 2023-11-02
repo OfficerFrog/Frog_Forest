@@ -1,42 +1,58 @@
 [
 	{
+		"file": "C:\\Users\\Thomas\\Documents\\Unreal Projects\\Frog_Forest\\Source\\Frog_Forest\\FrogCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Thomas\\Documents\\Unreal Projects\\Frog_Forest\\.vscode\\compileCommands_Default\\Frog_Forest.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Thomas\\Documents\\Unreal Projects\\Frog_Forest\\Source\\Frog_Forest\\FrogCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Thomas\\Documents\\Unreal Projects\\Frog_Forest\\.vscode\\compileCommands_Default\\Frog_Forest.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
 		"file": "C:\\Users\\Thomas\\Documents\\Unreal Projects\\Frog_Forest\\Source\\Frog_Forest\\Frog_Forest.Build.cs",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
-			"@C:\\Users\\Thomas\\Documents\\Unreal Projects\\Frog_Forest\\.vscode\\compileCommands_Default\\Frog_Forest.261.rsp"
+			"@C:\\Users\\Thomas\\Documents\\Unreal Projects\\Frog_Forest\\.vscode\\compileCommands_Default\\Frog_Forest.1.rsp"
 		],
-		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
 	},
 	{
 		"file": "C:\\Users\\Thomas\\Documents\\Unreal Projects\\Frog_Forest\\Source\\Frog_Forest\\Frog_Forest.cpp",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
-			"@C:\\Users\\Thomas\\Documents\\Unreal Projects\\Frog_Forest\\.vscode\\compileCommands_Default\\Frog_Forest.261.rsp"
+			"@C:\\Users\\Thomas\\Documents\\Unreal Projects\\Frog_Forest\\.vscode\\compileCommands_Default\\Frog_Forest.1.rsp"
 		],
-		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
 	},
 	{
 		"file": "C:\\Users\\Thomas\\Documents\\Unreal Projects\\Frog_Forest\\Source\\Frog_Forest\\Frog_Forest.h",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
-			"@C:\\Users\\Thomas\\Documents\\Unreal Projects\\Frog_Forest\\.vscode\\compileCommands_Default\\Frog_Forest.261.rsp"
+			"@C:\\Users\\Thomas\\Documents\\Unreal Projects\\Frog_Forest\\.vscode\\compileCommands_Default\\Frog_Forest.1.rsp"
 		],
-		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
 	},
 	{
 		"file": "C:\\Users\\Thomas\\Documents\\Unreal Projects\\Frog_Forest\\Source\\Frog_Forest\\Frog_ForestGameModeBase.cpp",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
-			"@C:\\Users\\Thomas\\Documents\\Unreal Projects\\Frog_Forest\\.vscode\\compileCommands_Default\\Frog_Forest.261.rsp"
+			"@C:\\Users\\Thomas\\Documents\\Unreal Projects\\Frog_Forest\\.vscode\\compileCommands_Default\\Frog_Forest.1.rsp"
 		],
-		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
 	},
 	{
 		"file": "C:\\Users\\Thomas\\Documents\\Unreal Projects\\Frog_Forest\\Source\\Frog_Forest\\Frog_ForestGameModeBase.h",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
-			"@C:\\Users\\Thomas\\Documents\\Unreal Projects\\Frog_Forest\\.vscode\\compileCommands_Default\\Frog_Forest.261.rsp"
+			"@C:\\Users\\Thomas\\Documents\\Unreal Projects\\Frog_Forest\\.vscode\\compileCommands_Default\\Frog_Forest.1.rsp"
 		],
-		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
 	}
 ]
